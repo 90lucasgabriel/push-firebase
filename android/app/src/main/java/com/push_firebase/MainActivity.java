@@ -1,4 +1,4 @@
-package com.push_firebase;
+package br.com.lucasgabriel.push_firebase;
 
 import com.facebook.react.ReactActivity;
 
